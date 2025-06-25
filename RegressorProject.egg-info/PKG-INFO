@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: RegressorProject
+Version: 0.0.1
+Author: Shubham
+Author-email: shubhamkondewar98@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: Flask
+Requires-Dist: seaborn

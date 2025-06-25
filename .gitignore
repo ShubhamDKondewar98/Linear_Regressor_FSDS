@@ -1,0 +1,137 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+.Python
+pip-selfcheck.json
+
+# Poetry
+poetry.lock
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Test output
+tests/output/
+tests/__pycache__/
+
+# Django stuff
+*.log
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+
+# Flask stuff
+instance/
+.webassets-cache
+
+# Scrapy
+.scrapy
+
+# PyBuilder
+target/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Pytype
+.pytype/
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Editor backup files
+*~
+*.bak
+*.swp
+*.tmp
+
+# Build
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Wheel
+*.whl
+
+# Sphinx documentation
+docs/_build/
+doc/_build/
+
+# Jupyter Notebook autosave
+*.autosave.ipynb
+
+# dotenv
+.env
+.env.*
+*.env
+
+# Logs
+*.log
+
+# AWS / GCP / credentials
+.aws/
+.gcp/
+*.pem
+*.key
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# VS Code specific Python stuff
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# Pytest cache
+.pytest_cache/
