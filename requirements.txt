@@ -2,4 +2,5 @@ numpy
 pandas
 Flask
 seaborn
+
 -e .  # used for trigger setup.py 
